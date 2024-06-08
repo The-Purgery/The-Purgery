@@ -1,4 +1,6 @@
-# The-Purgery
+# The Purgery
+
+## Issue reporting and tracking repository.
 
 This repository is primarily designed for non-code functionality within GitHub, such as:
 * [Issues](https://github.com/The-Purgery/The-Purgery/issues)
